@@ -1,16 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 02 14:24:21 2016
 
-@author: cansu
-"""
 import os
 import pandas
 import numpy as np
 import matplotlib.pyplot as plt; plt.rcdefaults()
 
-dire = 'C:/Users/LBP.P102PW036/Google Drive/KULeuven/Computer in Psychology/Project'
-#dire = 'C:/Users/cansu/Google Drive/KULeuven/Computer in Psychology/stimuli'
+dire = #directory of the Project file
 os.chdir(dire)
 
 from funcfile import correct_answers
