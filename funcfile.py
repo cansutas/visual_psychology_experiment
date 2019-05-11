@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 13 18:35:53 2016
-
-@author: Hanker
-"""
 
 #==============================================================================
 # Dialogue input box for participant number function
