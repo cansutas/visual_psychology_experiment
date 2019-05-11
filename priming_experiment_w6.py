@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 17 17:53:46 2016
-
-@author: Hanker
-"""
 
 #==============================================================================
 # Specify the stimulus folder and import the stuff
@@ -13,8 +7,7 @@ import random
 from psychopy import visual, event, core
 import time
 
-dire = 'C:/Users/Hanker/Google Drive/Project'
-#dire = 'C:/Users/cansu/Google Drive/KULeuven/Computer in Psychology/stimuli'
+dire = #directory of the Project file
 os.chdir(dire)
 
 from funcfile import dialogbox, writetocsv
