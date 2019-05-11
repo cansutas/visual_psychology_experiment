@@ -2,8 +2,8 @@
 Example code for a visual priming experiment I prepared for a school project. 
 
 The instructions for the project: 
-"
-This experiment will make use of a number of images of living and non-living objects. A single trial consists of a prime stimulus that is presented for a very short duration (20 ms) followed immediately by a target stimulus which is presented for 150 ms. After this presentation, the user should indicate if the target stimulus is a living or non-living object. With two different types of images (living versus non-living) and two presentation types (prime versus target) we can construct four possible conditions
+  "
+  This experiment will make use of a number of images of living and non-living objects. A single trial consists of a prime stimulus that is presented for a very short duration (20 ms) followed immediately by a target stimulus which is presented for 150 ms. After this presentation, the user should indicate if the target stimulus is a living or non-living object. With two different types of images (living versus non-living) and two presentation types (prime versus target) we can construct four possible conditions
 
 * Congruent living: prime = living and target = living
 * Congruent non-living: prime = non-living and target = non-living
